@@ -1,24 +1,5 @@
-# vue3
+# 套利统计
 
-## Project setup
-```
-yarn install
-```
+## 体验地址
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+http://95.163.196.100:8882/index.html
